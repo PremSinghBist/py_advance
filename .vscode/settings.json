@@ -1,0 +1,14 @@
+{
+    "python.testing.pytestArgs": [
+        "learn"
+    ],
+    "python.testing.unittestEnabled": true,
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./learn",
+        "-p",
+        "test_*.py"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../ProteinGAN"
+		},
+		{
+			"path": "../../../../cov"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,8 @@
+{
+    "host": "LocalHost",
+    "port": 22,
+    "user": "root",
+    "ignore":[".git",".vscode"],
+    "remotePath": "/root",
+    "uploadOnSave": true
+}
